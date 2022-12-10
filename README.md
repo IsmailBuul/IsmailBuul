@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsmailBuul
 - 👀 I’m interested in learning as much as I can
-- 🌱 I’m currently learning MIS with a tinge of Business
-- 💞️ I’m looking to collaborate on any projects
+- 🌱 I’m currently an aspiring Data Science professional
+- 💞️ I’m looking to land an internship in Data Science
 - 📫 How to reach me Ismailbuul750@gmail.com
 
 <!---
